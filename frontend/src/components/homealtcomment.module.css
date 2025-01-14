@@ -1,0 +1,210 @@
+.homealtcomment {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+.homealtcommentlogo {
+    display: flex;
+    max-width: 1200px;
+    margin-top: 100px;
+}
+
+.homecommentcontent {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    column-gap: 40px;
+}
+
+.homecasestudycontentoutside {
+    display: flex;
+    flex-direction: column;
+    padding: 43px 29px;
+
+    min-width: 313px;
+    height: fit-content;
+
+    background: #F2F2F2;
+    border-radius: 20px;
+
+}
+
+.homecommentcontentprofile {
+    display: flex;
+    flex-direction: row;
+    column-gap: 13px;
+
+    width: 313px;
+    height: 81px;
+}
+
+.homecommentcontentprofile img {
+    width: 81px;
+    height: 81px;
+    overflow: hidden;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homecommentcontentprofiletext {
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+    height: 56px;
+}
+
+.homecommentcontentprofiletexth2 {
+    height: 23px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #181818;
+    margin: 0;
+    text-align: left;
+}
+
+.homecommentcontentprofiletexttitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-left: 9px;
+    padding-right: 9px;
+
+    width: fit-content;
+    height: 26px;
+
+    background: #4EAF4E;
+    border-radius: 20px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.homecasestudycontentcommenticon {
+    display: flex;
+    width: 313px;
+    height: 20px;
+    position: relative;
+}
+
+.homecasestudycontentcommenticon img {
+    position: absolute;
+    bottom: -39px;
+    right: 35px;
+    max-width: 46px;
+}
+
+.homecasestudycontentinside {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+
+    width: 253px;
+    height: fit-content;
+    background: #FDFDFD;
+    border-radius: 20px;
+}
+
+.homecasestudycontentinside p {
+    width: 253px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #595566;
+    margin: 0;
+    text-align: left;
+}
+
+.homecommentbuttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1200px;
+    height: 60px;
+    margin-bottom: 100px;
+}
+
+.homecommentcontentbuttonoutside {
+    width: 125px;
+    height: 60px;
+    background: #F3F3F3;
+    border-radius: 42px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+}
+
+.homecommentcontentbuttonoutside2 {
+    width: 125px;
+    height: 60px;
+    background: #F3F3F3;
+    border-radius: 42px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.homecommentcontentbuttonoutside2 div {
+    margin-left: 25px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+}
+
+.homecommentcontentbutton1 {
+    width: 45.2px;
+    height: 45.2px;
+    background: #FFC42B;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.homecommentcontentbutton1img {
+    transform: rotate(180deg);
+}
+
+.homecommentcontentbutton1:hover {
+    background: #181818;
+}
+
+.homecommentcontentbutton1:hover img {
+    filter: invert(1);
+}

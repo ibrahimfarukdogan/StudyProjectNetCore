@@ -1,0 +1,143 @@
+.servicesdetailwork {
+    background-color: white;
+    height: 750px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.servicesconsultingcontent {
+    display: flex;
+    flex-direction: row;
+    width: 1282px;
+    height: 400px;
+    margin-top: 100px;
+    column-gap: 40px;
+}
+
+.servicesconsultingcontentcolumn {
+    display: flex;
+    flex-direction: column;
+    width: 590px;
+    height: 271px;
+}
+
+.servicesconsultingtitle {
+    display: flex;
+    flex-direction: row;
+    width: 249px;
+    height: 24px;
+    background: #FFCC4A;
+    border-radius: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #181818;
+    justify-content: center;
+    align-items: center;
+}
+
+.servicesconsultingcontentcolumn h1 {
+    width: 590px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 116%;
+    color: #181818;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.servicesconsultingcontentcolumn p{
+margin-top: 5px;
+margin-bottom: 5px;
+text-align: left;
+width: 481px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 147.5%;
+color: #595566;
+}
+.servicesconsultingcontentcolumnrow {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    width: 590px;
+    height: fit-content;
+    text-align: left;
+    margin-top: 30px;
+    align-items: flex-start;
+}
+
+.servicesconsultingcontentcolumnrow img {
+    max-width: 30px;
+}
+
+.servicesconsultingcontentcolumnrowtext {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    width: 590px;
+}
+
+.servicesconsultingcontentcolumnrowtext h4 {
+    width: 360px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+    text-align: left;
+    margin: 0;
+}
+
+.homeaboutcontentimgs {
+    position: relative;
+    min-width: 680px;
+    height: 430px;
+    margin-top: 50px;
+}
+
+.homeaboutcontentsplatterimg {
+    max-width: 226px;
+    position: absolute;
+    /* Keeps the greyphoto at the top */
+    left: 90px;
+    /* Keeps the greyphoto at the left */
+    z-index: 1;
+    /* Ensure greyphoto is behind the frontphoto */
+    top: -35px;
+}
+
+.homeaboutcontentaboutimg {
+    background: #D9D9D9;
+    border-radius: 28px;
+    position: absolute;
+    /* Position it 10px lower */
+    left: 120px;
+    /* Position it 10px to the right */
+    z-index: 2;
+    /* Ensure frontphoto is in front of greyphoto */
+}
+
+.homeaboutcontentmarkettimg {
+    border-radius: 28px;
+    max-width: 488px;
+    position: absolute;
+    top: 25px;
+    /* Position it 10px lower */
+    left: 150px;
+    z-index: 3;
+}
+.servicesconsultingcontentimg{
+    margin-top: 70px;
+}

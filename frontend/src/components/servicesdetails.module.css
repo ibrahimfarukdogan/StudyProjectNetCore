@@ -1,0 +1,189 @@
+.servicesdetails {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #F5F5F5;
+}
+
+.servicesdetailscontent {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    height: fit-content;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.servicesdetailscontentimg {
+    max-width: 105px;
+}
+
+.servicesdetailscontentrow {
+    width: 1150px;
+    height: 137px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 80px;
+}
+
+.servicesdetailscontentrowcolumn {
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+}
+
+.servicesdetailscontentrowbuttons {
+    width: 500px;
+    height: 137px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: flex-end;
+    column-gap: 20px;
+}
+
+.servicesdetailscontent h1 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    text-align: left;
+    width: 500px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 116%;
+    color: #181818;
+}
+
+.servicesdetailscontent p {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: left;
+    width: 645px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+}
+
+.servicesdetailscontentrowbuttons button {
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.servicesdetailscontentrowbuttonsimg2 {
+    max-width: 20px;
+    filter: invert(1);
+    transform: rotate(180deg);
+}
+
+.servicesdetailscontentrowbuttonsimg1 {
+    max-width: 20px;
+    filter: invert(1);
+}
+
+.servicesdetailscontentrowbuttons button:hover {
+    background-color: #FFC32B;
+}
+
+.servicesdetailscontentrowbuttons button:hover .servicesdetailscontentrowbuttonsimg2 {
+    filter: invert(0);
+}
+
+.servicesdetailscontentrowbuttons button:hover .servicesdetailscontentrowbuttonsimg1 {
+    filter: invert(0);
+}
+
+.servicesdetailscontentrow2 {
+    width: 1500px;
+    margin-right: auto;
+    overflow-y: hidden;
+    height: auto;
+    display: flex;
+}
+
+.servicesdetailscontentrow2items {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+.aboutprinciplescard {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-width: 380px;
+    height: fit-content;
+    background: #EBEBEB;
+    border: 1px solid #EAEAEA;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.aboutprinciplescard img {
+    margin-top: 50px;
+    margin-left: 40px;
+    max-width: 38px;
+}
+
+.aboutprinciplescard h3 {
+    margin: 0;
+    text-align: left;
+    width: 300px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 116%;
+    color: #181818;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.aboutprinciplescard h4 {
+    margin: 0;
+    text-align: left;
+    margin-left: 40px;
+    width: 285px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+}
+
+.aboutprinciplescard hr {
+    border: 0;
+    height: 10px;
+}
+
+.aboutprinciplescard:hover {
+    background-color: #181818;
+}
+
+.aboutprinciplescard:hover img {
+    filter: invert(1);
+}
+
+.aboutprinciplescard:hover h3 {
+    color: white;
+}
+
+.aboutprinciplescard:hover h4 {
+    color: white;
+}

@@ -1,0 +1,339 @@
+.homealtbanner {
+    width: 100%;
+    height: 1220px;
+    display: flex;
+    flex-direction: column;
+}
+
+.homebanner {
+    width: 100%;
+    height: 920px;
+    display: flex;
+    flex-direction: row;
+    background-color: #262626;
+
+}
+
+.homebannerleft {
+    width: 50%;
+    height: 920px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.homebannerright {
+    width: 50%;
+    height: 920px;
+    background-image: url("/homealtbanner.png");
+    background-size: cover;
+    background-position-y: -100px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.homebannerleftsplatter1 {
+    position: relative;
+    margin-top: auto;
+    min-width: 150px;
+    height: 262px;
+}
+
+.homebannerleftsplatter1 img {
+    width: 262px;
+    position: absolute;
+    top: 0px;
+    left: -115px;
+}
+
+.homebannerleftsplatter2 {
+    position: relative;
+    margin-top: 50px;
+    min-width: 88px;
+    height: 262px;
+}
+
+.homebannerleftsplatter2 img {
+    width: 262px;
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+
+
+.homebannertextareainside {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    height: 314px;
+    margin-top: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.homebannertextareainsidetitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 139px;
+
+    background: #FFCC4A;
+    border-radius: 20px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #181818;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+.homebannertextareainside h2 {
+    width: 450px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 116%;
+    color: #FFFFFF;
+
+    margin: 0px;
+    margin-top: 18px;
+    text-align: left;
+}
+
+.homebannertextareainside h3 {
+    width: 450px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #FFFFFF;
+
+    margin: 0px;
+    margin-top: 25px;
+    text-align: left;
+}
+
+.homebannertextareainsidelink {
+    margin-top: 30px;
+    margin-left: 0;
+}
+
+.homebannertextareainsidebuttonsinside2 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 201.54px;
+    height: 59.54px;
+    background: #FFFFFF;
+    border: 1px solid #EBEBEB;
+    border-radius: 42px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+}
+
+.homebannertextareainsidebuttonsinside2:hover {
+    background: #181818;
+    color: #FFFFFF;
+}
+
+.homebannertextareainsidebuttonsinside2 img {
+    max-width: 40px;
+}
+
+.homecardsarea {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.homecardsarearow {
+    width: 1195.5px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.homecards1 {
+    background-image: url("/homealtbannercard1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 388.5px;
+    height: 470.5px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.homecards2 {
+    background-image: url("/homealtbannercard2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 388.5px;
+    height: 470.5px;
+    position: absolute;
+    bottom: 0px;
+    left: 403.5px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.homecards3 {
+    background-image: url("/homealtbannercard3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 388.5px;
+    height: 470.5px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.homecardstextarea {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    width: 293px;
+    height: 185px;
+    margin-top: 210px;
+}
+
+.homecardstextarea h3 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #181818;
+    margin: 0;
+    text-align: left;
+}
+
+.homecardstextarea p {
+    width: 293px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+
+    margin: 0;
+    text-align: left;
+}
+
+.homecardstextarea button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 31px;
+    padding-right: 31px;
+    height: 61px;
+    width: fit-content;
+
+    background: #F3F3F3;
+    border-radius: 55px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+}
+
+.homecardstextarea button:hover {
+    background: transparent;
+}
+
+.homecardstextarea2 {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    width: 293px;
+    height: 185px;
+    margin-top: 210px;
+}
+
+.homecardstextarea2 h3 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: left;
+}
+
+.homecardstextarea2 p {
+    width: 293px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #FFFFFF;
+
+    margin: 0;
+    text-align: left;
+}
+
+.homecardstextarea2 button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 31px;
+    padding-right: 31px;
+    height: 61px;
+    width: fit-content;
+
+    background: #151515;
+    color: #FFFFFF;
+    border-radius: 55px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+.homecardstextarea2 button:hover {
+    background: white;
+    color: #151515;
+}

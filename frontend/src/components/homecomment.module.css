@@ -1,0 +1,163 @@
+.homecomment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.homecommentcontent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 654px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.homecommentcontenttitle {
+    width: 205px;
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: #4EAF4E;
+    border-radius: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    text-align: center;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.homecommentcontentsub {
+    display: flex;
+    width: 205px;
+    flex-direction: column;
+}
+
+.homecommentcontentprofile {
+    display: flex;
+    min-width: 600px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.homecommentcontentprofileimg {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homecasestudycontentcontainer img {
+    max-width: 1050px;
+    object-fit: cover;
+}
+
+.homecommentcontenttext {
+    width: 620px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 116%;
+    text-align: center;
+    color: #CECECE;
+}
+
+.homecommentcontentbuttonoutside {
+    width: 125px;
+    height: 60px;
+    background: #F3F3F3;
+    border-radius: 42px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+}
+
+.homecommentcontentbuttonoutside2 {
+    width: 125px;
+    height: 60px;
+    background: #F3F3F3;
+    border-radius: 42px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.homecommentcontentbuttonoutside2 div {
+    margin-left: 25px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+}
+
+.homecommentcontentbutton1 {
+    width: 45.2px;
+    height: 45.2px;
+    background: #FFC42B;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.homecommentcontentbutton1img {
+    transform: rotate(180deg);
+}
+
+.homecommentcontentbutton1:hover {
+    background: #181818;
+}
+
+.homecommentcontentbutton1:hover img {
+    filter: invert(1);
+}
+
+.homecommentcontentbottomh1 {
+    margin-top: 30px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 116%;
+    color: #181818;
+}
+
+.homecommentcontentbottomh2 {
+    margin-top: 5px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #4EAF4E;
+}

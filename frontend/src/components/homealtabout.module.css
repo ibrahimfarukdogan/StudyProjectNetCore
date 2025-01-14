@@ -1,0 +1,171 @@
+.servicesdetailcontact {
+    height: 900px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.contactcontent {
+    height: 530px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    margin-bottom: 50px;
+}
+
+.contactcontentcolumn {
+    height: 530px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactcontenttitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 24px;
+    background: #FFCC4A;
+    border-radius: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.contactcontentcolumn h1 {
+    margin: 0;
+    margin-top: 10px;
+    width: 410px;
+    font-family: 'Cabin';
+    font-style: bold;
+    font-size: 45px;
+    color: #181818;
+    text-align: left;
+}
+
+.contactcontentcolumn button {
+    display: flex;
+    align-items: center;
+    padding-left: 27px;
+    padding-right: 27px;
+
+    margin-top: 20px;
+    min-height: 59px;
+    width: fit-content;
+
+    background: #151515;
+    border-radius: 55px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.contactcontentcolumn button:hover {
+    background: transparent;
+    color: #181818;
+}
+
+.contactcontentp1 {
+    width: 360px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #4EAF4E;
+    text-align: left;
+    margin: 0;
+    margin-top: 15px;
+}
+
+.contactcontentp2 {
+    width: 400px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 17px;
+    color: #595566;
+    text-align: left;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.contactcontentcolumnrow {
+    width: 289px;
+    min-height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-top: 1px solid #D8D8D8;
+}
+
+.contactcontentcolumnrow img {
+    max-width: 45px;
+}
+
+.contactcontentcolumnrow h3 {
+    margin: 0;
+    font-family: 'Cabin';
+    font-style: bold;
+    font-weight: 600;
+    font-size: 18px;
+    color: #181818;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.contactcontenttextrow {
+    width: 666px;
+    display: flex;
+    flex-direction: row;
+}
+
+.contactcontenttextcolumn {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.homeaboutcontentimgs {
+    position: relative;
+    min-width: 707px;
+    height: 645px;
+}
+
+.homeaboutcontentsplatterimg {
+    width: 327px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.homeaboutcontentaboutimg {
+    width: 634px;
+    border-radius: 28px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 2;
+}
+
+.homeaboutcontentmarkettimg {
+    width: 447px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    z-index: 3;
+}

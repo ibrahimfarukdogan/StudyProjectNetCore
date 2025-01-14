@@ -1,0 +1,121 @@
+.homebanner {
+    width: 100%;
+    height: 920px;
+    background-color: #000000;
+    background-image: url("/banner1background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.homebannertextareainside {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 55px 58px;
+    gap: 10px;
+
+    width: 450px;
+    height: 300px;
+    margin-left: 250px;
+
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(2px);
+    border-radius: 29px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.homebannertextareaoutside {
+    display: flex;
+    flex-direction: column;
+}
+
+.homebannertextareainside h2 {
+    width: 435px;
+    font-family: 'Cabin';
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 116%;
+    margin: 10px;
+    color: #181818;
+}
+
+.homebannertextareainside h3 {
+    width: 431px;
+    font-family: 'Lato';
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    margin-left: 10px;
+    color: #595566;
+}
+
+.homebannertextareainsidebuttons {
+    display: flex;
+    margin-top: 35px;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 13px;
+    width: 381.54px;
+}
+
+.homebannertextareainsidebuttonsinside1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 33px;
+    gap: 10px;
+    width: 167px;
+    height: 61px;
+    background: #181818;
+    border-radius: 42px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.homebannertextareainsidebuttonsinside1:hover {
+    background: transparent;
+    color: black;
+}
+
+.homebannertextareainsidebuttonsinside2 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 10px;
+    gap: 11px;
+    width: 201.54px;
+    height: 59.54px;
+    background: #FFFFFF;
+    border: 1px solid #EBEBEB;
+    border-radius: 42px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+}
+.homebannertextareainsidebuttonsinside2:hover {
+    background: #181818;
+    color: #FFFFFF;
+}
+
+.homebannertextareainsidebuttonsinside2 img {
+    max-width: 40px;
+}

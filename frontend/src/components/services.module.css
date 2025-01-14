@@ -1,0 +1,126 @@
+.services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: auto;
+    background: #F5F5F5;
+}
+.services hr{
+    border: 0px;
+    margin-bottom: 150px;
+}
+
+.services h2 {
+    width: 781.87px;
+    margin-top: 10px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 116%;
+    text-align: center;
+}
+
+.servicesicon {
+    padding: 0px 12px;
+    margin-top: 150px;
+    gap: 10px;
+    width: 100px;
+    height: 24px;
+    background: #4EAF4E;
+    border-radius: 20px;
+    text-align: center;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    flex: none;
+}
+.servicesbanners {
+    display: flex;
+    flex-direction: row;
+    height: 300;
+    gap: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.servicesbanner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 49px 47px;
+    gap: 10px;
+    width: 300px;
+    height: 240px;
+    background: #EBEBEB;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.servicesbannercontent {
+    min-width: 320px;
+    min-height: 260px;
+    display: flex;
+    flex-direction: column;
+}
+
+.servicesbannercontent img {
+    max-width: 120px;
+    margin-top: auto;
+    height: auto;
+}
+.servicesbannercontenttext {
+    margin-top: auto;
+}
+
+
+.servicesbannercontenth1 {
+    color: #181818;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: 'Cabin';
+    font-style: normal;
+    text-align: left;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 116%;
+}
+
+.servicesbannercontenth2 {
+    color: #595566;
+    font-family: 'Lato';
+    font-style: normal;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+}
+
+.servicesbanner:hover {
+    background-color: rgb(22, 20, 20);
+}
+
+.servicesbanner:hover .servicesbannercontent img {
+    filter: invert(1);
+}
+
+.servicesbanner:hover .servicesbannercontenth1 {
+    color: white;
+}
+
+.servicesbanner:hover .servicesbannercontenth2 {
+    color: white;
+}

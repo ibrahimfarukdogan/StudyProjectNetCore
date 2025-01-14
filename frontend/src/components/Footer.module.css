@@ -1,0 +1,347 @@
+.footer {
+    width: 100%;
+    height: 488px;
+    background-color: #000000;
+    background-image: url("/footerbackground.png");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    bottom: 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 171px;
+
+    height: 238px;
+    width: 1200px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottomcontent {
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 171px;
+    color: white;
+
+    height: 50px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #707070;
+    margin-top: 60px;
+}
+
+.contentinside1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    width: 352px;
+    height: 238px;
+    margin-left: 10px;
+    flex: none;
+    order: 0;
+    border-right: 1px solid #707070;
+    flex-grow: 0;
+}
+
+.contentinside1logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+
+    flex: none;
+    flex-grow: 0;
+}
+
+.contentinside1logo img {
+    max-width: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contentinside1logo h2 {
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 105%;
+    color: #FFFFFF;
+}
+
+.contentinside1 h3 {
+    margin-top: 10px;
+    font-family: Cabin;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23.2px;
+    text-align: left;
+    text-underline-position: from-font;
+    color: #FFFFFF;
+
+}
+
+.contentinside2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    height: 238px;
+}
+
+.contentinside2items {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    width: 210px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.contentinside2items h2 {
+    width: 84px;
+    height: 23px;
+
+    font-family: 'Cabin';
+    font-style: normal;
+    text-align: left;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.contentinside2items img {
+    max-width: 30px;
+    margin-bottom: 10px;
+}
+
+.contentinside2items li {
+    width: 210px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 20px;
+    list-style-type: disc;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.contentinside2items h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    color: #FFFFFF;
+    flex: none;
+    margin: 0;
+}
+
+.contentinside2items button {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    color: black;
+    flex: none;
+    margin: 0;
+    height: 59px;
+    background-color: #FFFFFF;
+    border-radius: 42px;
+    margin-top: 10px;
+
+}
+
+
+.footeralt {
+    width: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bottomcontentalt {
+    display: flex;
+    flex-direction: row;
+    color: #595566;
+
+    height: 50px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px dotted #989898;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+
+.content2alt {
+    display: flex;
+    flex-direction: row;
+    column-gap: 60px;
+    width: 1200px;
+    margin-top: 60px;
+
+}
+
+.contentinside2itemsalt {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.contentinside2itemslogo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 10px;
+    height: fit-content;
+}
+
+.contentinside2itemslogo img {
+    max-width: 29px;
+    margin-top: 5px;
+}
+
+.contentinside2itemslogo h4 {
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 105%;
+    color: #262626;
+    margin: 0;
+}
+
+.contentinside2itemslogosplatter {
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 170px;
+}
+
+
+
+.contentinside2itemsalt h2 {
+    font-family: 'Cabin';
+    font-style: normal;
+    text-align: left;
+    font-weight: 600;
+    font-size: 16px;
+    color: #181818;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.contentinside2itemsalt li {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    text-align: left;
+    color: #595566;
+    margin-left: 20px;
+    list-style-type: disc;
+    margin-bottom: 10px;
+}
+
+.contentinside2itemsalt hr {
+    width: 211px;
+    border: 0;
+    border-top: 2px dotted #989898;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+
+.contentinside2itemsalt h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #181818;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.contentinside2itemsalt p {
+    width: 210px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #595566;
+    text-align: left;
+    margin: 0;
+}
+
+.contentinside2itemsalt h5 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #181818;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.contentinside2itemsalt h6 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 116%;
+    color: #181818;
+    text-align: left;
+    margin: 0;
+}
+
+.homeblogtitletextlink {
+    margin-top: 10px;
+}
+
+.homeblogtitletextlink button {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    color: black;
+    flex: none;
+    margin: 0;
+    height: 59px;
+    background-color: #FFFFFF;
+    border-radius: 42px;
+}
+
+.homeblogtitletextlink button:hover {
+    background-color: black;
+    color: white;
+}

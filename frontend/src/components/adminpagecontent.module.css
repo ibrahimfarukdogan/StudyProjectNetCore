@@ -1,0 +1,84 @@
+.adminpagecontent {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    background-color: white;
+}
+
+.adminpagecontentitems {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 50px;
+    margin-top: 100px;
+    border-radius: 30px;
+    background-color: #b1b1b1;
+}
+
+.adminpagesubscribe {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    height: 500px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.adminpagecontentitems ul {
+    width: 668px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 116%;
+    color: #181818;
+    text-align: left;
+    margin-right: 10px;
+    display: flex;
+    list-style-type: disc;
+    flex-direction: column;
+}
+
+.adminpagecontentitems ul li {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.adminpagecontentitems button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 31px;
+    padding-right: 31px;
+    height: 61px;
+    width: fit-content;
+
+    background: #F3F3F3;
+    border-radius: 55px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #353535;
+    margin-left: auto;
+}
+
+.adminpagecontentitems button:hover {
+    background: transparent;
+}
+.errorarea {
+    color: red;
+    font-size: 16px;
+    min-height: 24px;
+}
+.adminpagecontentitemsrow{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    column-gap: 50px;
+}

@@ -1,0 +1,213 @@
+.homeblog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #F5F5F5;
+}
+
+.homeblogcontent {
+    min-width: 1200px;
+    min-height: 775px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.homeblogtitle {
+    width: 74px;
+    height: 26px;
+    background: #4EAF4E;
+    border-radius: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.homeblogtitletext {
+    min-width: 1198px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.homeblogtitletextlink{
+    margin-left: auto;
+}
+.homeblogtitletext h3 {
+    margin: 0;
+    width: 507.89px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 116%;
+    color: #181818;
+    text-align: left;
+}
+
+.homeblogtitletext button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 37px;
+    gap: 10px;
+    width: 167px;
+    height: 61px;
+    background: #FFCC4A;
+    border-radius: 42px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #181818;
+}
+.homeblogtitletext button:hover {
+    background: #181818;
+    color: white;
+}
+
+.homeblogtitlerow {
+    min-width: 1200px;
+    min-height: 600px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    column-gap: 50px;
+}
+
+.homeblogtitlerowcontent {
+    display: flex;
+    flex-direction: column;
+}
+
+.homeblogtitlerowimg {
+    width: 580px;
+    height: 320px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 20px;
+    display: flex;
+}
+
+.homeblogtitlerowimg img {
+    min-width: 600px;
+    object-fit: cover;
+}
+
+.homeblogtitlerowcontent h2 {
+    margin-top: 35px;
+    width: 561.94px;
+    font-family: 'Cabin';
+    font-style: bold;
+    font-size: 30px;
+    line-height: 116%;
+    color: #181818;
+    text-align: left;
+}
+
+.homeblogtitlerowcontent p {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 545.65px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+    text-align: left;
+}
+
+.overlay {
+    border-top: 1px solid #D8D8D8;
+    border-bottom: 1px solid #D8D8D8;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.overlayimg {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.overlayimg img {
+    min-width: 60px;
+    object-fit: cover;
+}
+
+.overlay h4 {
+    margin: 0;
+    margin-left: 10px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+}
+
+.overlaydiv {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+}
+
+.overlay h5 {
+    margin: 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+}
+
+.overlaybutton {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+
+.overlaybutton button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: auto;
+    justify-content: center;
+    width: 167px;
+    height: 61px;
+    background: #181818;
+    border-radius: 42px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.overlaybutton button:hover {
+    background: transparent;
+    color: black;
+}

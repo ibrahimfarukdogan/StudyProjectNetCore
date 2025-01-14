@@ -1,0 +1,241 @@
+.casestudydetails {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.casestudydetailbanner {
+    width: 100%;
+    height: 487px;
+    background-color: #000000;
+    background-image: url("/casestudydetailbanner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutbannertextareainside {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 48px 60px 58px;
+    gap: 10px;
+
+    width: fit-content;
+    height: 100px;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(2px);
+    border-radius: 29px;
+}
+
+.aboutbannertextareaoutside {
+    display: flex;
+    flex-direction: column;
+    margin-right: 800px;
+}
+
+.aboutbannertextareainsidetitle {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 240px;
+    height: 24px;
+    left: 60px;
+    top: 48px;
+    background: #FFCC4A;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #181818;
+}
+
+.aboutbannertextareainside h3 {
+    margin-top: 45px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 116%;
+    color: #181818;
+    text-align: left;
+}
+
+.casestudydetailscontent {
+    margin-top: 160px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.casestudydetailscontentimg {
+    position: relative;
+    height: 600px;
+    width: 1200px;
+}
+
+.casestudydetailstitleimg {
+    height: 450px;
+    width: 1200px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+
+    width: 1200px;
+    height: 451.54px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.casestudydetailstitleimg img {
+    width: 1200px;
+}
+
+.casestudydetailstitletab {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    z-index: 2;
+    display: flex;
+    flex-direction: row;
+    padding: 53px 60px;
+    column-gap: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    background: #181818;
+    border-radius: 30px;
+
+}
+
+.casestudydetailstitletabcolumn {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.casestudydetailstitletabcolumn h4 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 116%;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: left;
+}
+
+.casestudydetailstitletabcolumn h5 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 116%;
+    color: #FFFFFF;
+    margin: 0;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.casestudydetailstitletab button {
+    margin-left: 50px;
+    display: flex;
+    width: 168px;
+    height: 61px;
+
+    background: #FFCC4A;
+    border-radius: 42px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: #181818;
+    justify-content: center;
+    align-items: center;
+}
+.casestudydetailscontentarea {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.casestudydetailscontentarea h1 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #181818;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+    width: 740px;
+}
+
+.casestudydetailscontentarea p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+    margin: 0;
+    margin-bottom: 30px;
+    text-align: left;
+    width: 740px;
+}
+
+.casestudydetailscontentarea h2 {
+
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+
+    color: #1C1C1C;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 740px;
+
+}
+
+.casestudydetailscontentarea hr {
+    border: 0;
+    height: 20px;
+    width: 740px;
+}
+
+.casestudydetailscontentarea li {
+    list-style-type: disc;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    width: 740px;
+    text-align: left;
+}
+
+.casestudydetailscontentarea img {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 710px;
+    margin-left: 20px;
+}

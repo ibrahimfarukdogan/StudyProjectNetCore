@@ -1,0 +1,155 @@
+.aboutprinciples {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 700px;
+    background: #F5F5F5;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutprinciplescontent {
+    display: flex;
+    flex-direction: column;
+    width: 1198px;
+    height: 500px;
+}
+
+.aboutprinciplesrow {
+    display: flex;
+    flex-direction: row;
+    width: 1100px;
+    column-gap: 30px;
+}
+
+.aboutprinciplesrow p {
+    width: 588px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.aboutprinciplestitle {
+    display: flex;
+    flex-direction: row;
+    width: 319px;
+    height: 24px;
+    background: #FFCC4A;
+    border-radius: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #181818;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutprinciplescontent h1 {
+    margin: 0;
+    margin-top: 7px;
+    text-align: left;
+    width: 537px;
+    height: 52px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 116%;
+    color: #181818;
+}
+
+.homeblogtitletextlink {
+    margin-left: auto;
+}
+
+.aboutprinciplesbutton1 {
+    display: flex;
+    flex-direction: row;
+    width: 167px;
+    height: 59px;
+    background: #181818;
+    border-radius: 42px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #FFFFFF;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+}
+
+.aboutprinciplesbutton1:hover {
+    background: transparent;
+    color: black;
+}
+
+.aboutprinciplescard {
+    margin-top: 15px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 255px;
+    height: fit-content;
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    border-radius: 20px;
+}
+
+.aboutprinciplescard img {
+    margin-top: 36px;
+    margin-left: 23px;
+    max-width: 52px;
+}
+
+.aboutprinciplesbutton2 {
+    display: flex;
+    flex-direction: row;
+    width: 160px;
+    background-color: transparent;
+    border: 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #181818;
+    margin-bottom: 23px;
+}
+
+.aboutprinciplescard h3 {
+    margin: 0;
+    text-align: left;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 116%;
+    color: #181818;
+    margin-top: 10px;
+    margin-left: 23px;
+}
+
+.aboutprinciplescard h4 {
+    margin: 0;
+    text-align: left;
+    width: 220px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #595566;
+    margin-left: 23px;
+}

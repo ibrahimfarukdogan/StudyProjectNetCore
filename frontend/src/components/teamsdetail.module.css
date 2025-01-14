@@ -1,0 +1,159 @@
+.teamsdetail {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    flex-direction: column;
+}
+
+.teamsdetailcontent {
+    margin-top: 120px;
+    margin-bottom: 10px;
+    width: 1200px;
+    height: 504px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+
+}
+
+.teamsdetailcontentcolumn {
+    width: 633px;
+    height: 504px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.homeaboutcontentimgs {
+    position: relative;
+    min-width: 480px;
+    height: 504px;
+}
+
+.homeaboutcontentsplatterimg {
+    max-width: 388px;
+    position: absolute;
+    z-index: 1;
+    top: -60px;
+    left: -100px;
+}
+
+.homeaboutcontentaboutimg {
+    max-width: 164px;
+    border-radius: 28px;
+    position: absolute;
+    top: -30px;
+    left: -20px;
+    z-index: 2;
+    transform: rotate(90deg);
+
+}
+
+.homeaboutcontentmarkettimg {
+    border-radius: 28px;
+    max-width: 478px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+}
+
+.teamsdetailcontentcolumnrow1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.teamsdetailcontentcolumnrow1 h1 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-size: 32px;
+    color: #181818;
+    margin: 0;
+}
+
+.teamsdetailcontentcolumnrow1imgs {
+    width: 235px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    border-left: 1px solid #C1C1C1;
+    column-gap: 10px;
+    justify-content: flex-end;
+}
+
+.teamsdetailcontentcolumnrow1imgs a {
+    margin: 0;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teamsdetailcontentcolumnrow1imgs a img {
+    min-width: 30px;
+    filter: invert(1);
+}
+
+.teamsdetailcontent h2 {
+    width: 600px;
+    font-family: 'Cabin';
+    font-size: 18px;
+    color: #595566;
+    text-align: left;
+    margin: 0;
+}
+
+.teamsdetailcontentcolumn2 {
+    border-bottom: 1px solid #C1C1C1;
+
+}
+
+.teamsdetailcontentcolumn2 p {
+    width: 633px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 16px;
+    color: #595566;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.teamsdetailcontentcolumn3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.teamsdetailcontentcolumn3 h2 {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-size: 32px;
+    color: #181818;
+    margin: 0;
+    margin-top: 30px;
+}
+
+.teamsdetailcontentcolumn3 p {
+    width: 633px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 16px;
+    color: #595566;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.teamsdetailcontentcolumn3 br {
+    margin-bottom: 20px;
+}
+
+.teamsdetailhr {
+    border: 0;
+    height: 100px;
+}

@@ -1,0 +1,127 @@
+.subscribe {
+    width: 1200px;
+    height: 252px;
+    background: #181818;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.homeaboutcontentimgs {
+    position: relative;
+    min-width: 1100px;
+    margin-left: 100px;
+    height: 412px;
+}
+
+.homeaboutcontentsplatterimg {
+    width: 361px;
+    position: absolute;
+    left: 865px;
+    transform: rotate(223deg);
+    z-index: 1;
+    top: -210px;
+}
+
+.homeaboutcontentaboutimg {
+    width: 200x;
+    position: absolute;
+    left: 965px;
+    top: 170px;
+    z-index: 2;
+    transform: rotate(45deg);
+}
+
+.talkcontacttext {
+    border-radius: 28px;
+    width: fit-content;
+    position: absolute;
+    top: 90px;
+    left: 0px;
+    z-index: 3;
+    display: flex;
+    flex-direction: row;
+}
+
+.talkcontacttextcolumn {
+    border-radius: 28px;
+    max-width: 488px;
+    top: 90px;
+    left: 0px;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+}
+
+.talkcontacttextcolumn h2 {
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 116%;
+color: #FFFFFF;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.talkcontacttextcolumn h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.contactcontenttextrow {
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 120px;
+}
+
+.contactcontentthininput {
+    box-sizing: border-box;
+    padding: 22px 20px;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 304px;
+    height: 68px;
+    background: #FFFFFF;
+    border: 1px solid #C1C1C1;
+    border-radius: 54px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147.5%;
+    color: #A9A9A9;
+}
+
+.contactcontenttextrow button {
+    display: flex;
+    flex-direction: row;
+    width: 168px;
+    height: 59px;
+    background: #FFCC4A;
+    border-radius: 46px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #181818;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.contactcontenttextrow button:hover {
+    background: transparent;
+    color: #FFFFFF;
+}

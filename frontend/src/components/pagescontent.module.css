@@ -1,0 +1,48 @@
+.pagescontent {
+    min-height: 700px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.pagescontentitems {
+    height: 400px;
+    background-color: #EBEBEB ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    flex-direction: column;
+    row-gap: 100px;
+    border-radius: 30px;
+}
+
+.pagescontentitemsrow {
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    flex-direction: row;
+    height: 80px;
+    border-top: 1px dotted #707070;
+    border-bottom: 1px dotted #707070;
+}
+
+.itemlink {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 116%;
+    color: #595566;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.itemlink:hover {
+    color: rgb(52, 126, 209)
+}
