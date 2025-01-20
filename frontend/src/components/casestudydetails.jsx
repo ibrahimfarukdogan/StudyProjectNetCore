@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { format } from 'date-fns';
 import styles from './casestudydetails.module.css';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { fetchCaseStudyItemsById, fetchCaseStudyDatasById, fetchCaseStudyCategoriesById } from '../services/api';
 
 function casestudydetailbanner() {
@@ -73,7 +73,7 @@ function casestudydetailbanner() {
                             <h4>Date</h4>
                             <h5>{format(new Date(item.creationDate), 'd MMMM yyyy')}</h5>
                         </div>
-                        <button>Live Preview</button>
+                        <Link to={`/contact`} className={`${styles.casestudydetailstitletabLink}`}><button>Live Preview</button></Link>
                     </div>
                 </div>
                 <div className={`${styles.casestudydetailscontentarea}`}>

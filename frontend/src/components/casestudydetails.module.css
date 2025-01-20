@@ -150,9 +150,10 @@
     margin-top: 10px;
     text-align: left;
 }
-
-.casestudydetailstitletab button {
+.casestudydetailstitletabLink{
     margin-left: 50px;
+}
+.casestudydetailstitletab button {
     display: flex;
     width: 168px;
     height: 61px;
@@ -168,6 +169,10 @@
     color: #181818;
     justify-content: center;
     align-items: center;
+}
+.casestudydetailstitletab button:hover{
+    background: transparent;
+    color: white;
 }
 .casestudydetailscontentarea {
     margin-top: 50px;
