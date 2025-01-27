@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\blogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\blogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\blogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\blogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\alternativemodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\alternativemodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\commentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\commentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\commentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\commentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\alternativemods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\alternativemods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\pricingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,8 +31,20 @@
       "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\blogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\blogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\blogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\blogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\casestudypostdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\casestudypostdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\pricingitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\pricingitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\models\\casestudypostitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,8 +59,24 @@
       "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:models\\servicesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\servicesdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\servicesdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\commentitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\commentitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\casestudypostdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\casestudypostdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\controllers\\blogdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|solutionrelative:controllers\\blogdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4AD5FA1-9459-4844-8F7B-D881CD80455A}|backend.csproj|c:\\users\\monster\\documents\\odev\\proje\\backend\\data\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,59 +94,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AlternativeModsController.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\AlternativeModsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AlternativeModsController.cs",
-              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\AlternativeModsController.cs",
-              "RelativeToolTip": "Controllers\\AlternativeModsController.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAQwFgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:37:37.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\LoginModel.cs",
-              "RelativeToolTip": "Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T21:45:08.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T21:10:19.532Z"
+              "WhenOpened": "2025-01-24T21:08:54.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MembersController.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "Controllers\\MembersController.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\MembersController.cs",
               "RelativeToolTip": "Controllers\\MembersController.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAAwHUAAAAYAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T20:52:11.854Z"
+              "WhenOpened": "2025-01-24T21:08:26.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "PricingItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\PricingItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PricingItemsController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\PricingItemsController.cs",
+              "RelativeToolTip": "Controllers\\PricingItemsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:47:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PricingItem.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\PricingItem.cs",
               "RelativeDocumentMoniker": "Models\\PricingItem.cs",
@@ -143,6 +148,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "ServicesDatasController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\ServicesDatasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesDatasController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\ServicesDatasController.cs",
+              "RelativeToolTip": "Controllers\\ServicesDatasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:14:58.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\CommentItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentItemsController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\CommentItemsController.cs",
+              "RelativeToolTip": "Controllers\\CommentItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:14:29.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
@@ -154,7 +183,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
+              "Title": "CaseStudyPostDatasController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\CaseStudyPostDatasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CaseStudyPostDatasController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\CaseStudyPostDatasController.cs",
+              "RelativeToolTip": "Controllers\\CaseStudyPostDatasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:13:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlogDatasController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\BlogDatasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogDatasController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\BlogDatasController.cs",
+              "RelativeToolTip": "Controllers\\BlogDatasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:13:10.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CommentItem.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\CommentItem.cs",
               "RelativeDocumentMoniker": "Models\\CommentItem.cs",
@@ -166,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Clients.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\Clients.cs",
               "RelativeDocumentMoniker": "Models\\Clients.cs",
@@ -178,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "backendDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Data\\backendDbContext.cs",
               "RelativeDocumentMoniker": "Data\\backendDbContext.cs",
@@ -202,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CaseStudyPostData.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\CaseStudyPostData.cs",
               "RelativeDocumentMoniker": "Models\\CaseStudyPostData.cs",
@@ -214,32 +267,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "BlogItem.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\BlogItem.cs",
               "RelativeDocumentMoniker": "Models\\BlogItem.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\BlogItem.cs",
               "RelativeToolTip": "Models\\BlogItem.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T01:57:34.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "BlogData.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\BlogData.cs",
               "RelativeDocumentMoniker": "Models\\BlogData.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\BlogData.cs",
               "RelativeToolTip": "Models\\BlogData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T01:57:55.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T01:57:55.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "CaseStudyPostItemsController.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Controllers\\CaseStudyPostItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CaseStudyPostItemsController.cs",
@@ -263,6 +315,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlternativeMods.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\AlternativeMods.cs",
+              "RelativeDocumentMoniker": "Models\\AlternativeMods.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\AlternativeMods.cs",
+              "RelativeToolTip": "Models\\AlternativeMods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:15:28.321Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "CaseStudyPostItem.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\CaseStudyPostItem.cs",
@@ -275,13 +339,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Members.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\Members.cs",
               "RelativeDocumentMoniker": "Models\\Members.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\Odev\\Proje\\backend\\Models\\Members.cs",
               "RelativeToolTip": "Models\\Members.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswBQAAAAxAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T18:36:38.871Z"
             }
