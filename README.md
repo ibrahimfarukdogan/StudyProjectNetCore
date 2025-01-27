@@ -13,3 +13,7 @@ But you need to add values for frontend work. So for this you copy BackendDb.bak
 Then in sql server 2022, You right click to backend and from the menu you click: Tasks->Restore->Database and select the BackendDb.bak from the list
 
 Lastly project frontend ui taken from here: https://www.figma.com/design/zxDkWjnvqt5MsuCeiz7d89/Consulting-Webflow-Website-Template-(Community)-(Copy)?node-id=1-5
+
+When it comes to using the website, you can navigate with navbar, also other pages are in the "pages" tab at the navbar. You can click item images to go into their detail pages as well for the blogs/services/casestudy/teams pages.
+for logging in, we can use members table's values to login. For example you can use email as: "mail1@mail.com" , and for the password area: "password". This will take you into a basic admin page where you can 
+toggle alternative home/footer/navbar elements.
